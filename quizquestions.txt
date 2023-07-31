@@ -1,0 +1,45 @@
+Question Bank 
+BEGIN
+--------------------------------------
+Question:
+How many colors are in the rainbow?
+Options:
+Correct: Seven
+Eight
+Six
+Nine
+
+Question:
+What is the name of the tallest grass on earth?
+Options:
+Lawn grass
+Correct: Bamboo 
+lemon grass
+Kariyat
+
+Question:
+Chlorophyll is a naturally occurring chelate compound in which central metal is
+Options:
+iron
+copper
+Correct: magnesium 
+calcium
+
+Question:
+What part of the body helps you move?
+Options:
+pancreas
+lungs
+eyes
+Correct: muscles
+
+Question:
+Which is the world's largest flower?
+Options:
+Sunflower
+Correct: Rafflesia 
+Lotus
+Orchid
+
+END
+--------------------------------------
